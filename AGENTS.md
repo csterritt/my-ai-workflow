@@ -13,4 +13,3 @@ This is where project documentation and notes live.
 - `tasks/` — project tasks
 - `walkthroughs/` — project walkthroughs and demos
 - `Ideas.md` - the initial project ideas and requirements
-- `PRD-expense-log.md` - the project requirements document

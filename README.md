@@ -1,5 +1,13 @@
 # My AI-Assisted Workflow
 
+This project contains all the files I put in a new project's `Notes` directory. It is based on Matteo "Maio" Barbero's work, whose README.md follows.
+
+My main change is in the `skills/issue-to-tasks/SKILL.md` file, where instead of `WRITE` and `TEST` blocks, it uses `RED`/`GREEN`/`REFACTOR` blocks.
+
+I've also added the `skills/code-writing` directory, where I have my "non-functional" code writing rules.
+
+---
+
 > How I built a structured AI-assisted development workflow as a Tech Lead, where the real work happens before a single line of code is written.
 
 📖 **Full article:** [maiobarbero.dev/articles/ai-assisted-workflow](https://www.maiobarbero.dev/articles/ai-assisted-workflow?utm_source=github)<br>
